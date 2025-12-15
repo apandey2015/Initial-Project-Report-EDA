@@ -29,7 +29,7 @@ The visual EDA shows that global EV adoption follows a clear diffusion pattern. 
 The graph shows that while the linear regression captures the general upward trend in EV sales, it does not fit the data well. It performs poorly in the early years and fails to capture the rapid growth in later years, indicating that EV sales grow in a nonlinear pattern rather than a linear one.
 
 <img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/9ac383d9-8a47-47a6-8778-bc7d294b645f" />
-The graph shows that polynomial regression fits EV sales much better than linear regression. It captures the slow early growth and the rapid increase in recent years, showing that EV sales grow in a nonlinear way.
+The graph shows that polynomial regression fits EV sales much better than linear. It shows a slow early growth and rapid increase in recent years, showing that EV sales grow in a nonlinear way.
 
 <img width="569" height="453" alt="image" src="https://github.com/user-attachments/assets/7b54361e-b68d-4bb2-9a27-3f1d62a7c0c6" />
 The graph shows historical global EV sales along with a polynomial regression fit and a forecast for 2027. EV sales grow slowly in the early years and then accelerate sharply after 2018, indicating a nonlinear adoption pattern. The fitted curve closely follows the historical data, capturing this acceleration well. Based on the extrapolated trend, global EV sales are projected to increase substantially by 2027, reaching a much higher level than recent years. This suggests continued rapid expansion of the EV market, assuming current growth dynamics persist.
