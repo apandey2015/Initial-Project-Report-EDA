@@ -38,3 +38,4 @@ Repeat the analysis for major markets (e.g., US, China, EU).
 Use GridSearchCV for SVR or Decision Tree and compare results with polynomial regression
 
 # Outline of project
+https://github.com/apandey2015/Initial-Project-Report-EDA/blob/main/Initial%20Project%20Report%20EDA.ipynb
