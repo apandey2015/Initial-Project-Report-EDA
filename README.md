@@ -1,5 +1,5 @@
 # Project Title
-Forecasting Electric Vehicle Adoption in the United States Using Machine Learning
+Forecasting Electric Vehicle Adoption Using Machine Learning
 
 # Executive Summary
 Future electric vehicle (EV) adoption in the United States can be forecast by analyzing historical EV sales trends alongside the current number of EVs on the road. Historical sales data reveal how rapidly EV adoption has grown and how consumers have responded to improvements in technology, pricing, and government incentives. The current EV population reflects market acceptance and progress toward widespread adoption. When combined, these data provide a strong foundation for projecting future EV growth and support informed planning by policymakers, businesses, and utilities for charging infrastructure, energy demand, and long-term transportation needs.
